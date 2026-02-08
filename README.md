@@ -83,26 +83,26 @@ In the short term, I aim to develop myself as a **Fullstack Developer** speciali
 <table>
 <tr>
 <td align="center">
-<img width="80" src="https://img.icons8.com/color/96/000000/trophy.png"/>
-<br><b>Innovation Award</b>
-<br><small>VPSTech 2024</small>
-</td>
-<td align="center">
 <img width="80" src="https://img.icons8.com/color/96/000000/graduation-cap.png"/>
 <br><b>GPA 3.31/4.0</b>
 <br><small>NTTU 2025</small>
 </td>
-</tr>
-<tr>
 <td align="center">
 <img width="80" src="https://img.icons8.com/color/96/000000/certificate.png"/>
 <br><b>MOS Specialist</b>
 <br><small>Microsoft 2025</small>
 </td>
+</tr>
+<tr>
 <td align="center">
-<img width="80" src="https://img.icons8.com/color/96/000000/english.png"/>
-<br><b>CEFR B2</b>
+<img width="80" src="https://img.icons8.com/fluency/96/000000/language.png"/>
+<br><b>English CEFR B2</b>
 <br><small>NIE 2023</small>
+</td>
+<td align="center">
+<img width="80" src="https://img.icons8.com/color/96/000000/trophy.png"/>
+<br><b>Research Prize</b>
+<br><small>NTTU</small>
 </td>
 </tr>
 </table>
@@ -111,9 +111,11 @@ In the short term, I aim to develop myself as a **Fullstack Developer** speciali
 
 <div align="left">
 
-- 🥇 **Microsoft Office Specialist** (Word, Excel, PowerPoint) - 2025
-- 🎓 **B2 English CEFR** (NTT | NIE English Program) - 2023
-- 🏅 **Won Encouragement Prize** for Scientific Research at School Level
+- 🥇 **Microsoft Office Specialist - Word** (Microsoft) - 2025
+- 🥇 **Microsoft Office Specialist - Excel** (Microsoft) - 2025  
+- 🥇 **Microsoft Office Specialist - PowerPoint** (Microsoft) - 2025
+- 🎓 **B2 English Certificate** (NIE English Program | Nguyen Tat Thanh University) - 2023
+- 🏅 **Encouragement Prize for Scientific Research** (Nguyen Tat Thanh University)
 
 </div>
 

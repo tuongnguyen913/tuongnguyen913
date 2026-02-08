@@ -50,7 +50,7 @@ In the short term, I aim to develop myself as a **Fullstack Developer** speciali
 
 </details>
 
-<details>
+<details open>
 <summary><b>Software Developer Intern</b> @ Digital Competence Company Limited</summary>
 
 **Period:** 02/2025 - 05/2025
@@ -383,14 +383,6 @@ Developed a desktop application for managing furniture sales and inventory, supp
 <div align="center">
 
 ## 📊 GitHub Statistics
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=tuongnguyen913&theme=tokyonight&hide_border=true&background=0d1117&cache_seconds=86400"/>
 
 </div>
 

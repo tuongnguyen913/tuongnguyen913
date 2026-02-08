@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Nguyen%20Minh%20Tuong&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20.NET%20Developer&descAlignY=55&descAlign=50"/>
 </div>
 
----
+<br>
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
@@ -16,30 +16,24 @@ const profile = {
   englishName: "Ryan Wilson",
   role: "Software Engineer",
   company: "VPSTech Co. LTD",
-  location: "Phú Thọ, Vietnam",
-  focus: "Government Digital Solutions",
-  experience: "3+ years",
+  location: "Ho Chi Minh City, Vietnam",
+  experience: "Fresher, under 1 year",
   motto: "Building value through stability and logic"
 };
 ```
 
-### 🚀 Current Projects
-
-- 🏛️ **E-Government Portals** — Official websites for communes/wards
-- 📋 **Administrative Processing System** — Government workflow management  
-- 🔒 **Server Monitoring System** — Real-time Windows server surveillance
-- 💾 **Citizen Data Storage** — Secure database management system
-
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-minh-tuong)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devnguyen1910/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devnguyen1910@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/devnguyen1910)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/84329407627)
+[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/0329407627)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/devnguyen1910)
 
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="./assets/anh_3.jpg" width="320" style="border-radius: 20px; border: 4px solid #0078D4; box-shadow: 0 8px 24px rgba(0,120,212,0.3);" alt="Ryan Wilson - Software Engineer"/>
+<img src="./assets/anh_3.JPG" width="320" style="border-radius: 20px; border: 4px solid #0078D4; box-shadow: 0 8px 24px rgba(0,120,212,0.3);" alt="Ryan Wilson - Software Engineer"/>
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=400&lines=.NET+Core+%7C+Angular+Expert;Government+Solutions+Architect;Clean+Code+Advocate;Always+Learning+%26+Growing" alt="Typing Animation" />
@@ -55,7 +49,7 @@ const profile = {
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -77,7 +71,7 @@ const profile = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Database
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -93,6 +87,9 @@ const profile = {
 ![SSO](https://img.shields.io/badge/SSO-0078D4?style=flat-square&logo=auth0&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)
+
+</td>
+<td width="34%" valign="top">
 
 ### Development Tools
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
@@ -120,39 +117,16 @@ const profile = {
 <details open>
 <summary><h3>🔒 Server Monitoring & Intrusion Detection System</h3></summary>
 
-> **Công cụ Giám sát Thư mục Máy chủ** — 24/7 real-time monitoring system for ~10 Windows Servers
+24/7 real-time monitoring system detecting unauthorized uploads on ~10 Windows Servers. Features auto-classification of dangerous files, email alerts, web dashboard, and centralized monitoring. **Successfully detected real hacking attempts!** 🏆 Innovation Award Winner.
 
-**Key Features:**
-- ⚡ Real-time disk monitoring (C/D/E drives)
-- 🔴 Auto classification: Dangerous files (.exe, .dll, .php, .aspx)
-- 🟡 Attention files (.asp, .htm) · 🟢 Normal files
-- 📧 Scheduled email alerts to system administrators
-- 📊 Web dashboard with search & comprehensive reports
-- 🎯 Centralized monitoring across multiple servers
-
-**Impact:** ✅ Successfully detected real hacking attempts!  
-**Status:** ✅ Deployed 1+ year  
-**Recognition:** 🏆 Innovation Initiative Award
+**Status:** ✅ Deployed 1+ year
 
 </details>
 
 <details>
 <summary><h3>🏛️ Government Electronic Information Portals (×3)</h3></summary>
 
-> **Cổng Thông tin Điện tử** — Official government websites with shared backend architecture
-
-**Portals Developed:**
-- Chi cục ATTP Phú Thọ (Food Safety & Hygiene)
-- Phường Thống Nhất (Unified Ward)
-- Xã Thịnh Minh (Thinh Minh Commune)
-
-**Key Features:**
-- 📰 News & articles management with rich text editor
-- 📜 Legal document repository with full-text search
-- 🖼️ Image gallery & banner management system
-- 🔍 SEO-optimized with Angular SSR
-- 📱 Fully responsive layout
-- 🔐 Secure admin authentication
+Official government websites for Chi cục ATTP Phú Thọ, Phường Thống Nhất, and Xã Thịnh Minh with shared backend architecture. Includes news/document management, image gallery, Angular SSR for SEO, responsive design, and secure authentication.
 
 **Status:** ✅ Production
 
@@ -161,41 +135,25 @@ const profile = {
 <details>
 <summary><h3>📋 Citizen Complaints & Denunciations System</h3></summary>
 
-> **Hệ thống Quản lý Khiếu nại, Tố cáo** — Comprehensive complaint management following Vietnamese government procedures
+Comprehensive complaint lifecycle management system for Yên Bình District following Vietnamese government procedures. Features role-based assignment, VGCA digital signature, X-Road e-document exchange, automated SMS notifications, and interactive dashboards.
 
-**Key Features:**
-- 🔄 Complete workflow lifecycle management
-- 👥 Role-based task assignment system
-- 🔐 VGCA digital signature integration
-- 🌐 X-Road (LGSP) e-document exchange
-- 📱 Automated SMS reminders & notifications
-- 📊 Interactive dashboards with multiple report types
-
-**Status:** ✅ Production (Yên Bình District)
+**Status:** ✅ Production
 
 </details>
 
 <details>
 <summary><h3>🏘️ Poor Household Database Management System</h3></summary>
 
-> **Hệ thống Quản lý Cơ sở Dữ liệu Hộ Nghèo** — Provincial-scale social welfare tracking system
+Provincial-scale social welfare system tracking deprivation indicators across Phú Thọ. Includes household registration, 12 social indicators tracking, Excel import with preview, analytics charts, multi-level approval workflow, and SSO/X-Road integration.
 
-**Key Features:**
-- 👪 Comprehensive household & member registration
-- 📊 Tracking of 12 social deprivation indicators
-- 📥 Excel import with interactive preview
-- 📈 Advanced analytics with visual charts
-- 🔄 Multi-level approval workflow
-- 🔐 SSO & X-Road integration
-
-**Status:** ✅ v1.0 Released (January 2026)
+**Status:** ✅ v1.0 (January 2026)
 
 </details>
 
 <details>
 <summary><h3>💬 Citizen Feedback & Petitions System</h3></summary>
 
-> **Hệ thống Phản ánh, Kiến nghị** — Structured feedback processing with inter-agency data exchange
+Structured feedback management platform with processing workflow and inter-agency data exchange capabilities for handling citizen petitions and suggestions.
 
 **Status:** ✅ Production
 
@@ -204,16 +162,7 @@ const profile = {
 <details>
 <summary><h3>🌐 SharePoint Government Portals</h3></summary>
 
-> **Cổng Thông tin Điện tử SharePoint** — Custom portals for provincial agencies
-
-**Agencies:**
-- BQL (Management Board)
-- Sở KHCN (Department of Science & Technology)
-
-**Customizations:**
-- Custom web parts development
-- Event receivers & workflows
-- WSP package deployment
+Custom SharePoint portals for BQL and Sở KHCN with custom web parts, event receivers, workflows, and WSP package deployment.
 
 **Status:** ✅ Deployed
 
@@ -222,82 +171,114 @@ const profile = {
 <details>
 <summary><h3>🗺️ Vietnam Administrative API (Post-2025 Merger)</h3></summary>
 
-> **API Danh sách 3,321 Xã/Phường Việt Nam** — RESTful API for Vietnam's administrative hierarchy
+RESTful API serving Vietnam's updated administrative hierarchy (63 provinces, 713 districts, 3,321 wards/communes) after 2025 mergers. Includes 9 REST endpoints, SQL seed scripts, and interactive test page.
 
-**Coverage:**
-- 63 Provinces
-- 713 Districts
-- 3,321 Wards/Communes (Updated after 2025 administrative mergers)
-
-**Features:**
-- 9 RESTful endpoints
-- SQL seed scripts included
-- Interactive test page
-
-**Tech Stack:** Node.js · Express 5 · Python pandas  
-**Status:** ✅ Active & Maintained
+**Tech:** Node.js, Express 5, Python pandas  
+**Status:** ✅ Active
 
 </details>
 
 ---
 
-## 🎨 Gallery & Achievements
+## 🎓 Student Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<details>
+<summary><h3>📚 Web-Based Platform for School Equipment Management</h3></summary>
 
-### 📸 Professional Photos
+Developed a comprehensive web-based system for managing school equipment, allowing users to track device status, schedule maintenance based on wear and tear over time, and automatically generate maintenance plans by condition. The system also supports notifications, reporting, and role-based access permissions.
+
+**Tech:** ASP.NET MVC/Core (C#/.NET), Telerik UI, SQL Server  
+**Source Code:** https://github.com/tuongnguyen1910/assets-management  
+**Period:** 02/2025 - 05/2025
+
+</details>
+
+<details>
+<summary><h3>🛒 Web-Based E-Commerce Platform</h3></summary>
+
+Developed an e-commerce website with core functionalities such as product management, customer management, online payment, order and delivery management. The system supports creating invoices, managing inventory, stock levels, applying promotions/discount codes, and generating reports on revenue, best-sellers, and inventory.
+
+**Tech:** ASP.NET MVC (C#/.NET), Bootstrap 5+, SQL Server, Azure  
+**Source Code:** https://github.com/devnguyen1910/ecommerce-site  
+**Period:** 10/2024 - 01/2025
+
+</details>
+
+<details>
+<summary><h3>🪑 Desktop Application for Furniture Management</h3></summary>
+
+Developed a desktop application for managing furniture sales and inventory, supporting product, customer, and material information maintenance. The system enables users to manage sales orders, print invoices, track inventory levels, manage user access roles, and generate reports on sales, stock levels, and material usage.
+
+**Tech:** WinForms (C# .NET), SQL Server Express  
+**Source Code:** https://github.com/ginherick/Winform_DNCI921_QLBH  
+**Period:** 02/2024 - 04/2024
+
+</details>
+
+---
+
+## 📸 Gallery & Achievements
 
 <div align="center">
-  <img src="./image/README/anh_1.jpg" width="45%" style="border-radius: 10px; margin: 5px;"/>
-  <img src="./image/README/anh_2.jpg" width="45%" style="border-radius: 10px; margin: 5px;"/>
-  <img src="./image/README/anh_3.jpg" width="45%" style="border-radius: 10px; margin: 5px;"/>
-  <img src="./image/README/anh_4.jpg" width="45%" style="border-radius: 10px; margin: 5px;"/>
-</div>
 
-</td>
-<td width="50%" valign="top">
+### 👨‍💻 Professional Moments
 
-### 🏆 Certifications
-
-<div align="center">
-  <img src="./image/README/cc1.jpg" width="90%" style="border-radius: 10px; margin-bottom: 10px;"/>
-  <p><i>Certificate 1</i></p>
-  
-  <img src="./image/README/cc2.jpg" width="90%" style="border-radius: 10px; margin-bottom: 10px;"/>
-  <p><i>Certificate 2</i></p>
-  
-  <img src="./image/README/cc3.jpg" width="90%" style="border-radius: 10px; margin-bottom: 10px;"/>
-  <p><i>Certificate 3</i></p>
-  
-  <img src="./image/README/cc4.jpg" width="90%" style="border-radius: 10px; margin-bottom: 10px;"/>
-  <p><i>Certificate 4</i></p>
-  
-  <img src="./image/README/cc5.jpg" width="90%" style="border-radius: 10px; margin-bottom: 10px;"/>
-  <p><i>Certificate 5</i></p>
-</div>
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td><img src="./image/README/anh_1.jpg" width="250" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,120,212,0.3); margin: 8px;" alt="Professional Moment 1"/></td>
+    <td><img src="./image/README/anh_2.jpg" width="250" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,120,212,0.3); margin: 8px;" alt="Professional Moment 2"/></td>
+    <td><img src="./image/README/anh_4.jpg" width="250" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,120,212,0.3); margin: 8px;" alt="Professional Moment 3"/></td>
+  </tr>
 </table>
+
+### 🏆 Certifications & Achievements
+
+<table>
+  <tr>
+    <td><img src="./image/README/cc1.jpg" width="230" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3); margin: 8px;" alt="Certificate 1"/></td>
+    <td><img src="./image/README/cc2.jpg" width="230" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3); margin: 8px;" alt="Certificate 2"/></td>
+    <td><img src="./image/README/cc3.jpg" width="230" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3); margin: 8px;" alt="Certificate 3"/></td>
+  </tr>
+  <tr>
+    <td><img src="./image/README/cc4.jpg" width="230" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3); margin: 8px;" alt="Certificate 4"/></td>
+    <td><img src="./image/README/cc5.jpg" width="230" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3); margin: 8px;" alt="Certificate 5"/></td>
+    <td></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuongnguyen913&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuongnguyen913&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devnguyen1910&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnguyen1910&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
+
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=tuongnguyen913&theme=tokyonight&hide_border=true&background=0d1117"/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=devnguyen1910&theme=tokyonight&hide_border=true&background=0d1117&cache_seconds=86400"/>
+
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=tuongnguyen913&bg_color=0d1117&color=0078d4&line=0078d4&point=ffffff&area=true&hide_border=true"/>
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devnguyen1910&theme=tokyonight"/>
+
 </div>
+
+> 💡 **Lưu ý về GitHub Statistics:**
+> - Các widget trên lấy dữ liệu tự động từ tài khoản GitHub: **devnguyen1910**
+> - Nếu hình không hiển thị:
+>   1. Đảm bảo tài khoản GitHub **devnguyen1910** tồn tại và public
+>   2. Thay `devnguyen1910` bằng username GitHub thực của bạn trong URLs
+>   3. Nếu vẫn lỗi, thử access trực tiếp: https://github-readme-stats.vercel.app/api?username=devnguyen1910
+> - Dữ liệu được cache (cập nhật mỗi 24h) để tăng tốc độ load
+> - **Không cần API key** - các service này hoàn toàn miễn phí!
 
 ---
 

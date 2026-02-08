@@ -111,9 +111,7 @@ In the short term, I aim to develop myself as a **Fullstack Developer** speciali
 
 <div align="left">
 
-- 🥇 **Microsoft Office Specialist - Word** (Microsoft) - 2025
-- 🥇 **Microsoft Office Specialist - Excel** (Microsoft) - 2025  
-- 🥇 **Microsoft Office Specialist - PowerPoint** (Microsoft) - 2025
+- 🥇 **Microsoft Office Specialist** - Word, Excel, PowerPoint (Microsoft) - 2025
 - 🎓 **B2 English Certificate** (NIE English Program | Nguyen Tat Thanh University) - 2023
 - 🏅 **Encouragement Prize for Scientific Research** (Nguyen Tat Thanh University)
 
@@ -348,32 +346,33 @@ Developed a desktop application for managing furniture sales and inventory, supp
 <div align="left">
 
 <details>
-<summary><b>📜 Microsoft Office Specialist (Word, Excel, PowerPoint) - 2025</b></summary>
+<summary><b>🅰️ Angular (Intermediate) - HackerRank</b></summary>
 <br>
-<img src="./image/README/cc1.jpg" width="600" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3);" alt="MOS Certificate"/>
+<img src="./image/README/cc1.jpg" width="600" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3);" alt="Angular Certificate"/>
 </details>
 
 <details>
-<summary><b>🎓 B2 English CEFR (NTT | NIE English Program) - 2023</b></summary>
+<summary><b>⚛️ Frontend Developer (React) - HackerRank</b></summary>
 <br>
-<img src="./image/README/cc2.jpg" width="600" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3);" alt="English Certificate"/>
+<img src="./image/README/cc2.jpg" width="600" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3);" alt="React Certificate"/>
 </details>
 
 <details>
-<summary><b>🏅 Scientific Research Encouragement Prize - NTTU</b></summary>
+<summary><b>📜 JavaScript (Intermediate) - HackerRank</b></summary>
 <br>
-<img src="./image/README/cc3.jpg" width="600" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3);" alt="Research Prize Certificate"/>
+<img src="./image/README/cc3.jpg" width="600" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3);" alt="JavaScript Certificate"/>
 </details>
 
 <details>
-<summary><b>🎯 Additional Certifications (2 more)</b></summary>
+<summary><b>💻 Software Engineer - HackerRank</b></summary>
 <br>
-<table>
-  <tr>
-    <td><img src="./image/README/cc4.jpg" width="300" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3); margin: 5px;" alt="Certificate 4"/></td>
-    <td><img src="./image/README/cc5.jpg" width="300" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3); margin: 5px;" alt="Certificate 5"/></td>
-  </tr>
-</table>
+<img src="./image/README/cc4.jpg" width="600" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3);" alt="Software Engineer Certificate"/>
+</details>
+
+<details>
+<summary><b>🎨 Responsive Web Design - freeCodeCamp</b></summary>
+<br>
+<img src="./image/README/cc5.jpg" width="600" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3);" alt="Responsive Web Design Certificate"/>
 </details>
 
 </div>

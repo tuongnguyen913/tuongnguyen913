@@ -1,10 +1,3 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&display=swap');
-  
-  * {
-    font-family: ''Google Sans'', sans-serif !important;
-  }
-</style>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Nguyen%20Minh%20Tuong&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20.NET%20Developer&descAlignY=55&descAlign=50"/>
@@ -48,6 +41,16 @@ In the short term, I aim to develop myself as a **Fullstack Developer** speciali
 ### 💼 Work Experience
 
 <details open>
+<summary><b>Software Engineer</b> @ VPSTech Co. LTD</summary>
+
+**Period:** 05/09/2025 - Now
+
+- 🚀 Developing government digital solutions for Vietnamese public sector
+- 💻 Building and maintaining enterprise web applications using .NET technologies
+
+</details>
+
+<details>
 <summary><b>Software Developer Intern</b> @ Digital Competence Company Limited</summary>
 
 **Period:** 02/2025 - 05/2025
@@ -106,9 +109,13 @@ In the short term, I aim to develop myself as a **Fullstack Developer** speciali
 
 ### 📚 Certifications
 
+<div align="left">
+
 - 🥇 **Microsoft Office Specialist** (Word, Excel, PowerPoint) - 2025
 - 🎓 **B2 English CEFR** (NTT | NIE English Program) - 2023
 - 🏅 **Won Encouragement Prize** for Scientific Research at School Level
+
+</div>
 
 </td>
 </tr>
@@ -324,17 +331,19 @@ Developed a desktop application for managing furniture sales and inventory, supp
 
 ### 👨‍💻 Professional Moments
 
-<div style="overflow-x: auto; white-space: nowrap; padding: 20px; background: linear-gradient(135deg, rgba(0,120,212,0.05) 0%, rgba(118,75,162,0.05) 100%); border-radius: 15px; margin: 20px 0;">
-  <a href="./image/README/anh_1.jpg"><img src="./image/README/anh_1.jpg" width="280" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,120,212,0.4); margin: 0 10px; display: inline-block; transition: transform 0.3s;" alt="Professional Moment 1"/></a>
-  <a href="./image/README/anh_2.jpg"><img src="./image/README/anh_2.jpg" width="280" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,120,212,0.4); margin: 0 10px; display: inline-block; transition: transform 0.3s;" alt="Professional Moment 2"/></a>
-  <a href="./image/README/anh_4.jpg"><img src="./image/README/anh_4.jpg" width="280" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,120,212,0.4); margin: 0 10px; display: inline-block; transition: transform 0.3s;" alt="Professional Moment 3"/></a>
-</div>
-
-<p><i>👆 Scroll horizontally to view all photos →</i></p>
+<table>
+  <tr>
+    <td><a href="./image/README/anh_1.jpg"><img src="./image/README/anh_1.jpg" width="260" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,120,212,0.4);" alt="Professional Moment 1"/></a></td>
+    <td><a href="./image/README/anh_2.jpg"><img src="./image/README/anh_2.jpg" width="260" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,120,212,0.4);" alt="Professional Moment 2"/></a></td>
+    <td><a href="./image/README/anh_4.jpg"><img src="./image/README/anh_4.jpg" width="260" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,120,212,0.4);" alt="Professional Moment 3"/></a></td>
+  </tr>
+</table>
 
 <br>
 
 ### 🏆 Certifications
+
+<div align="left">
 
 <details>
 <summary><b>📜 Microsoft Office Specialist (Word, Excel, PowerPoint) - 2025</b></summary>
@@ -365,7 +374,7 @@ Developed a desktop application for managing furniture sales and inventory, supp
 </table>
 </details>
 
-<p><i>Click to expand and view certificates 📖</i></p>
+</div>
 
 </div>
 
@@ -374,15 +383,6 @@ Developed a desktop application for managing furniture sales and inventory, supp
 <div align="center">
 
 ## 📊 GitHub Statistics
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuongnguyen913&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuongnguyen913&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
 
 </div>
 

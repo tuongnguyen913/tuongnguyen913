@@ -1,333 +1,315 @@
 <div align="center">
-
-<!-- Header with gradient background effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyen%20Minh%20Tuong&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20.NET%20%26%20SharePoint%20Developer&descAlignY=52&descSize=18"/>
-
-<!-- Profile Image with cool styling -->
-<img src="./assets/%E1%BA%A2nh%20CV1.JPG" width="180" style="border-radius: 20%; border: 5px solid #fff; box-shadow: 0 8px 24px rgba(0,120,212,0.4);" alt="Nguyen Minh Tuong">
-
-### 👋 Hey there! I'm **Ryan**
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+Government+Digital+Solutions+%F0%9F%8F%9B%EF%B8%8F;9%2B+Production+Systems+Deployed+%F0%9F%9A%80;Specialized+in+.NET+%7C+Angular+%7C+SharePoint+%E2%9C%A8" alt="Typing SVG" />
-</p>
-
-**🏢 VPSTech Co. LTD** · Phú Thọ, Vietnam
-
-<br>
-
-<!-- Social Badges with hover effect -->
-<p>
-  <a href="https://www.linkedin.com/in/nguyen-minh-tuong">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:devnguyen1910@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/tuongnguyen913">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-  </a>
-</p>
-
-<!-- Certifications -->
-<p>
-  <a href="https://www.hackerrank.com/certificates/4271ca32691a"><img src="https://img.shields.io/badge/🏅_REST_API-Intermediate-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="REST API"/></a>
-  <a href="https://www.hackerrank.com/certificates/589091e891cd"><img src="https://img.shields.io/badge/🏅_SQL-Intermediate-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="SQL"/></a>
-  <a href="https://www.hackerrank.com/certificates/318b2780e10a"><img src="https://img.shields.io/badge/🏅_C%23-Basic-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="C#"/></a>
-</p>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Nguyen%20Minh%20Tuong&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20.NET%20Developer&descAlignY=55&descAlign=50"/>
 </div>
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
-
-```yaml
-name: Nguyen Minh Tuong
-located_in: Phú Thọ, Vietnam
-current_job: Software Engineer @ VPSTech Co. LTD
-company_focus: Government Digital Transformation
-experience: 9+ Production Systems Deployed
-
-fields_of_interests:
-  - Clean Architecture
-  - System Optimization
-  - Microservices
-  - Angular SSR
-  - Government Tech Solutions
-  
-current_projects:
-  - Electronic Information Portals
-  - Public Service Platforms
-  - Security Monitoring Systems
-  - Social Welfare Management
-
-technical_background:
-  - .NET Ecosystem (Core 7/8, EF Core, WebForms)
-  - Modern Frontend (Angular 15/18 SSR, Bootstrap, Material)
-  - SharePoint Development (2015/2019)
-  - Database Design (SQL Server, MySQL)
-  - Enterprise Integration (X-Road, SSO, Digital Signature)
-```
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-### 🏆 Achievements
-- 🥇 **Innovation Award** - Server Monitoring System
-- ✅ **9+ Production Systems** - All in government sector
-- 🔒 **Security Impact** - Detected real hacking attempts
-- 🏛️ **3 Gov Portals** - Multi-tenant architecture
-- 📊 **Provincial Scale** - Serving entire Phú Thọ province
-
-</td>
-    <td valign="top" width="50%">
-
-### 💼 What I Do
-- 🏗️ Design & implement **Clean Architecture** solutions
-- 🎨 Build **SEO-optimized** portals with Angular SSR
-- 🔐 Integrate **Digital Signature** & X-Road systems
-- 📈 Create **real-time monitoring** & alerting tools
-- 👥 Develop **citizen-facing** public service platforms
-
-</td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Tech Stack
-
-<div align="center">
-
-| 🎯 Category | 🛠️ Technologies |
-|------------|----------------|
-| **Backend** | ![.NET](https://img.shields.io/badge/.NET_Core_7/8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) |
-| **Frontend** | ![Angular](https://img.shields.io/badge/Angular_15/18-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Material](https://img.shields.io/badge/Material-757575?style=for-the-badge&logo=materialdesign&logoColor=white) |
-| **SharePoint** | ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
-| **Database** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Integration** | ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![OpenID](https://img.shields.io/badge/SSO/OIDC-F78C40?style=for-the-badge&logo=openid&logoColor=white) |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Professional Projects
-
-> 🏢 **All projects built at VPSTech Co. LTD for Vietnamese government clients**
-
-<details open>
-<summary><b>🔒 Server Monitoring & Intrusion Detection System</b></summary>
-<br>
-
-<table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
-<td width="60%">
+<td width="55%" valign="top">
 
-**Công cụ Giám sát Thư mục Máy chủ**
+## 👨‍💼 About Me
 
-24/7 real-time system detecting unauthorized file uploads, malware, and hacker intrusions on **~10 Windows Servers**.
+```typescript
+const profile = {
+  fullName: "Nguyen Minh Tuong",
+  englishName: "Ryan Wilson",
+  role: "Software Engineer",
+  company: "VPSTech Co. LTD",
+  location: "Phú Thọ, Vietnam",
+  focus: "Government Digital Solutions",
+  experience: "3+ years",
+  motto: "Building value through stability and logic"
+};
+```
 
-**🎯 Key Features:**
-- ⚡ Real-time disk monitoring (C/D/E drives)
-- 🔴 Auto classification: **Dangerous** (`.exe`, `.dll`, `.php`, `.aspx`)
-- 🟡 **Attention** (`.asp`, `.htm`) · 🟢 **Normal**
-- 📧 Scheduled email alerts to sysadmins
-- 📊 Web dashboard with search & reports
-- 🎯 Centralized monitoring across ~10 servers
+### 🚀 Current Projects
 
-**✅ Impact:** Successfully detected real hacking attempts!
+- 🏛️ **E-Government Portals** — Official websites for communes/wards
+- 📋 **Administrative Processing System** — Government workflow management  
+- 🔒 **Server Monitoring System** — Real-time Windows server surveillance
+- 💾 **Citizen Data Storage** — Secure database management system
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-minh-tuong)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devnguyen1910@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/devnguyen1910)
 
 </td>
-<td width="40%">
+<td width="45%" valign="top" align="center">
 
-**Status:** ✅ Deployed 1+ year  
-**Award:** 🏆 Innovation Initiative
+<img src="./assets/anh_3.jpg" width="320" style="border-radius: 20px; border: 4px solid #0078D4; box-shadow: 0 8px 24px rgba(0,120,212,0.3);" alt="Ryan Wilson - Software Engineer"/>
 
-**Tech Stack:**
-```
-• ASP.NET Core
-• Angular 15
-• PowerShell
-• FileSystemWatcher
-• SQL Server
-• JWT + SMTP
-```
+<div align="center" style="margin-top: 20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=400&lines=.NET+Core+%7C+Angular+Expert;Government+Solutions+Architect;Clean+Code+Advocate;Always+Learning+%26+Growing" alt="Typing Animation" />
+</div>
 
 </td>
 </tr>
 </table>
 
+---
+
+## 💻 Tech Stack
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Angular SSR](https://img.shields.io/badge/Angular_SSR-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Material](https://img.shields.io/badge/Material-757575?style=flat-square&logo=material-design&logoColor=white)
+
+### Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### Database
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+### Integration & Security
+![SSO](https://img.shields.io/badge/SSO-0078D4?style=flat-square&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)
+
+### Development Tools
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Teams](https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏢 Professional Projects
+
+<div align="center">
+  <i>🔒 All projects built at VPSTech Co. LTD for Vietnamese government clients</i>
+</div>
+
+<br>
+
+<details open>
+<summary><h3>🔒 Server Monitoring & Intrusion Detection System</h3></summary>
+
+> **Công cụ Giám sát Thư mục Máy chủ** — 24/7 real-time monitoring system for ~10 Windows Servers
+
+**Key Features:**
+- ⚡ Real-time disk monitoring (C/D/E drives)
+- 🔴 Auto classification: Dangerous files (.exe, .dll, .php, .aspx)
+- 🟡 Attention files (.asp, .htm) · 🟢 Normal files
+- 📧 Scheduled email alerts to system administrators
+- 📊 Web dashboard with search & comprehensive reports
+- 🎯 Centralized monitoring across multiple servers
+
+**Impact:** ✅ Successfully detected real hacking attempts!  
+**Status:** ✅ Deployed 1+ year  
+**Recognition:** 🏆 Innovation Initiative Award
+
 </details>
 
 <details>
-<summary><b>🏛️ Government Electronic Information Portals (×3)</b></summary>
-<br>
+<summary><h3>🏛️ Government Electronic Information Portals (×3)</h3></summary>
 
-**Cổng Thông tin Điện tử — Chi cục ATTP Phú Thọ · Phường Thống Nhất · Xã Thịnh Minh**
+> **Cổng Thông tin Điện tử** — Official government websites with shared backend architecture
 
-Built and maintained **3 official government portals** — shared backend serving multiple frontends.
+**Portals Developed:**
+- Chi cục ATTP Phú Thọ (Food Safety & Hygiene)
+- Phường Thống Nhất (Unified Ward)
+- Xã Thịnh Minh (Thinh Minh Commune)
 
-**🎯 Key Features:**
-- 📰 News/articles CMS with CKEditor + CKFinder
-- 📜 Legal document management with full-text search
-- 🖼️ Image gallery & banner management
-- 🔍 **Angular 18 SSR** for SEO optimization
-- 📱 Responsive layout & admin authentication
+**Key Features:**
+- 📰 News & articles management with rich text editor
+- 📜 Legal document repository with full-text search
+- 🖼️ Image gallery & banner management system
+- 🔍 SEO-optimized with Angular SSR
+- 📱 Fully responsive layout
+- 🔐 Secure admin authentication
 
-**Tech:** `ASP.NET Core 8` `Angular 18 SSR` `WebForms` `SQL Server` `EF Core` `Swagger`  
 **Status:** ✅ Production
 
 </details>
 
 <details>
-<summary><b>📋 Citizen Complaints & Denunciations System</b></summary>
-<br>
+<summary><h3>📋 Citizen Complaints & Denunciations System</h3></summary>
 
-**Hệ thống Quản lý Khiếu nại, Tố cáo — Yên Bình**
+> **Hệ thống Quản lý Khiếu nại, Tố cáo** — Comprehensive complaint management following Vietnamese government procedures
 
-Comprehensive complaint lifecycle management following Vietnamese government procedures.
+**Key Features:**
+- 🔄 Complete workflow lifecycle management
+- 👥 Role-based task assignment system
+- 🔐 VGCA digital signature integration
+- 🌐 X-Road (LGSP) e-document exchange
+- 📱 Automated SMS reminders & notifications
+- 📊 Interactive dashboards with multiple report types
 
-**🎯 Key Features:**
-- 🔄 Full workflow: Create → Process → Review → **Digital Sign** → Issue
-- 👥 Role-based assignment (Chairman, Vice-Chairman, Specialists)
-- 🔐 **VGCA digital signature** integration
-- 🌐 **X-Road (LGSP)** e-document exchange
-- 📱 SMS auto-reminders & notifications
-- 📊 Interactive dashboards & 5+ report types
+**Status:** ✅ Production (Yên Bình District)
 
-**Tech:** `ASP.NET Core 7/8` `Angular 15` `X-Road` `Digital Signature` `SQL Server` `SSO`  
+</details>
+
+<details>
+<summary><h3>🏘️ Poor Household Database Management System</h3></summary>
+
+> **Hệ thống Quản lý Cơ sở Dữ liệu Hộ Nghèo** — Provincial-scale social welfare tracking system
+
+**Key Features:**
+- 👪 Comprehensive household & member registration
+- 📊 Tracking of 12 social deprivation indicators
+- 📥 Excel import with interactive preview
+- 📈 Advanced analytics with visual charts
+- 🔄 Multi-level approval workflow
+- 🔐 SSO & X-Road integration
+
+**Status:** ✅ v1.0 Released (January 2026)
+
+</details>
+
+<details>
+<summary><h3>💬 Citizen Feedback & Petitions System</h3></summary>
+
+> **Hệ thống Phản ánh, Kiến nghị** — Structured feedback processing with inter-agency data exchange
+
 **Status:** ✅ Production
 
 </details>
 
 <details>
-<summary><b>🏘️ Poor Household Database Management System</b></summary>
-<br>
+<summary><h3>🌐 SharePoint Government Portals</h3></summary>
 
-**Hệ thống Quản lý Cơ sở Dữ liệu Hộ Nghèo — Phú Thọ**
+> **Cổng Thông tin Điện tử SharePoint** — Custom portals for provincial agencies
 
-Provincial-scale social welfare system tracking deprivation indicators across Phú Thọ.
+**Agencies:**
+- BQL (Management Board)
+- Sở KHCN (Department of Science & Technology)
 
-**🎯 Key Features:**
-- 👪 Household registration with member details
-- 📊 **12 social deprivation indicators** tracking
-- 📥 Excel import with **LuckySheet** preview
-- 📈 Dashboard analytics (pie, line, bar charts)
-- 🔄 Workflow with multi-level approvals
-- 🔐 SSO + X-Road integration
+**Customizations:**
+- Custom web parts development
+- Event receivers & workflows
+- WSP package deployment
 
-**Tech:** `ASP.NET Core 7/8` `Angular 15 SSR` `Quartz.NET` `Chart.js` `Material` `SQL Server`  
-**Status:** ✅ v1.0 (Jan 2026)
-
-</details>
-
-<details>
-<summary><b>💬 Citizen Feedback & Petitions System</b></summary>
-<br>
-
-**Hệ thống Phản ánh, Kiến nghị**
-
-Feedback management platform with structured processing workflow and inter-agency data exchange.
-
-**Tech:** `ASP.NET Core 7/8` `Angular 15` `X-Road` `SQL Server` `SSO`  
-**Status:** ✅ Production
-
-</details>
-
-<details>
-<summary><b>🌐 SharePoint Government Portals</b></summary>
-<br>
-
-**Cổng Thông tin Điện tử SharePoint — BQL · Sở KHCN**
-
-Custom SharePoint portals for provincial agencies with custom web parts and event receivers.
-
-**Tech:** `SharePoint 2015/2019` `ASP.NET` `C#` `WSP Deployment`  
 **Status:** ✅ Deployed
 
 </details>
 
 <details>
-<summary><b>🗺️ Vietnam Administrative API (Post-2025 Merger)</b></summary>
-<br>
+<summary><h3>🗺️ Vietnam Administrative API (Post-2025 Merger)</h3></summary>
 
-**API Danh sách 3.321 Xã/Phường Việt Nam**
+> **API Danh sách 3,321 Xã/Phường Việt Nam** — RESTful API for Vietnam's administrative hierarchy
 
-RESTful API serving Vietnam's updated administrative hierarchy after 2025 mergers.  
-Covers **63 provinces · 713 districts · 3,321 wards/communes**.
+**Coverage:**
+- 63 Provinces
+- 713 Districts
+- 3,321 Wards/Communes (Updated after 2025 administrative mergers)
 
-**Features:** 9 REST endpoints · SQL seed scripts · Interactive test page  
-**Tech:** `Node.js` `Express 5` `Python` `pandas`  
-**Status:** ✅ Active
+**Features:**
+- 9 RESTful endpoints
+- SQL seed scripts included
+- Interactive test page
+
+**Tech Stack:** Node.js · Express 5 · Python pandas  
+**Status:** ✅ Active & Maintained
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 🏗️ Architecture Pattern
+## 🎨 Gallery & Achievements
 
-```ascii
-╔════════════════════════════════════════════════════════════════╗
-║               CLEAN ARCHITECTURE (.NET STACK)                  ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║   Core (Domain) ──► Database (EF Core) ──► Repositories       ║
-║                                                    │           ║
-║                                                    ▼           ║
-║                                             Services (BLL)     ║
-║                                                    │           ║
-║                      ┌─────────────────────────────┤           ║
-║                      ▼                             ▼           ║
-║              Web API Controller              Upload Server    ║
-║                      │                                         ║
-║          ┌───────────┼───────────┐                             ║
-║          ▼           ▼           ▼                             ║
-║      X-Road      Identity    File Mgmt                         ║
-║      (LGSP)      (JWT/SSO)   (Storage)                         ║
-║                      │                                         ║
-║                      ▼                                         ║
-║         Angular 15/18 SSR + Bootstrap 5 + Material            ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**Principles:** Separation of Concerns · Testability · Reusability · Maintainability
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📸 Gallery
+### 📸 Professional Photos
 
 <div align="center">
-  <img src="./assets/Anh%20(43).jpg" width="45%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" alt="Photo">
-  <img src="./assets/%E1%BA%A2Nh%20CV2.JPG" width="45%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" alt="CV Photo">
+  <img src="./image/README/anh_1.jpg" width="45%" style="border-radius: 10px; margin: 5px;"/>
+  <img src="./image/README/anh_2.jpg" width="45%" style="border-radius: 10px; margin: 5px;"/>
+  <img src="./image/README/anh_3.jpg" width="45%" style="border-radius: 10px; margin: 5px;"/>
+  <img src="./image/README/anh_4.jpg" width="45%" style="border-radius: 10px; margin: 5px;"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</td>
+<td width="50%" valign="top">
+
+### 🏆 Certifications
+
+<div align="center">
+  <img src="./image/README/cc1.jpg" width="90%" style="border-radius: 10px; margin-bottom: 10px;"/>
+  <p><i>Certificate 1</i></p>
+  
+  <img src="./image/README/cc2.jpg" width="90%" style="border-radius: 10px; margin-bottom: 10px;"/>
+  <p><i>Certificate 2</i></p>
+  
+  <img src="./image/README/cc3.jpg" width="90%" style="border-radius: 10px; margin-bottom: 10px;"/>
+  <p><i>Certificate 3</i></p>
+  
+  <img src="./image/README/cc4.jpg" width="90%" style="border-radius: 10px; margin-bottom: 10px;"/>
+  <p><i>Certificate 4</i></p>
+  
+  <img src="./image/README/cc5.jpg" width="90%" style="border-radius: 10px; margin-bottom: 10px;"/>
+  <p><i>Certificate 5</i></p>
+</div>
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuongnguyen913&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tuongnguyen913&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuongnguyen913&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuongnguyen913&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuongnguyen913&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=tuongnguyen913&theme=tokyonight&hide_border=true&background=0d1117"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=tuongnguyen913&bg_color=0d1117&color=0078d4&line=0078d4&point=ffffff&area=true&hide_border=true"/>
+</div>
+
+---
 
 <div align="center">
+  <h3>💭 Quote</h3>
+  <i>"Building value through stability and logic."</i>
   
-### 💭 _"Building value through stability and logic."_
-
-[![Profile Views](https://komarev.com/ghpvc/?username=tuongnguyen913&style=for-the-badge&color=0078D4)](https://github.com/tuongnguyen913)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
+  <br><br>
+  
+  <img src="https://komarev.com/ghpvc/?username=tuongnguyen913&color=0078d4&style=for-the-badge&label=Profile+Views"/>
+  
+  <br><br>
+  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer"/>
 </div>

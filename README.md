@@ -7,10 +7,7 @@
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
-<td width="100%" valign="top">
-
-<!-- Desktop: 55% width, Mobile: 100% stacked -->
-<div style="display: inline-block; width: 100%; max-width: 600px; vertical-align: top; padding: 10px;">
+<td width="55%" valign="top">
 
 ## 👋 About Me
 
@@ -72,19 +69,12 @@ In the short term, I aim to develop myself as a **Fullstack Developer** speciali
 [![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/0329407627)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/devnguyen1910)
 
-</div>
-
 </td>
-</tr>
-<tr>
-<td width="100%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
 
-<!-- Desktop: 45% width, Mobile: 100% stacked -->
-<div style="display: inline-block; width: 100%; max-width: 400px; vertical-align: top; padding: 10px;">
+<br><br>
 
-<br>
-
-<img src="./assets/anh_3.JPG" style="width: 100%; max-width: 320px; border-radius: 20px; border: 4px solid #0078D4; box-shadow: 0 8px 24px rgba(0,120,212,0.3);" alt="Ryan Wilson - Software Engineer"/>
+<img src="./assets/anh_3.JPG" width="320" style="border-radius: 20px; border: 4px solid #0078D4; box-shadow: 0 8px 24px rgba(0,120,212,0.3);" alt="Ryan Wilson - Software Engineer"/>
 
 <br><br>
 
@@ -124,8 +114,6 @@ In the short term, I aim to develop myself as a **Fullstack Developer** speciali
 - 🥇 **Microsoft Office Specialist** (Word, Excel, PowerPoint) - 2025
 - 🎓 **B2 English CEFR** (NTT | NIE English Program) - 2023
 - 🏅 **Won Encouragement Prize** for Scientific Research at School Level
-
-</div>
 
 </div>
 
@@ -343,11 +331,11 @@ Developed a desktop application for managing furniture sales and inventory, supp
 
 ### 👨‍💻 Professional Moments
 
-<table style="width: 100%;">
+<table>
   <tr>
-    <td align="center"><a href="./image/README/anh_1.jpg"><img src="./image/README/anh_1.jpg" style="width: 100%; max-width: 260px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,120,212,0.4);" alt="Professional Moment 1"/></a></td>
-    <td align="center"><a href="./image/README/anh_2.jpg"><img src="./image/README/anh_2.jpg" style="width: 100%; max-width: 260px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,120,212,0.4);" alt="Professional Moment 2"/></a></td>
-    <td align="center"><a href="./image/README/anh_4.jpg"><img src="./image/README/anh_4.jpg" style="width: 100%; max-width: 260px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,120,212,0.4);" alt="Professional Moment 3"/></a></td>
+    <td><a href="./image/README/anh_1.jpg"><img src="./image/README/anh_1.jpg" width="260" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,120,212,0.4);" alt="Professional Moment 1"/></a></td>
+    <td><a href="./image/README/anh_2.jpg"><img src="./image/README/anh_2.jpg" width="260" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,120,212,0.4);" alt="Professional Moment 2"/></a></td>
+    <td><a href="./image/README/anh_4.jpg"><img src="./image/README/anh_4.jpg" width="260" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,120,212,0.4);" alt="Professional Moment 3"/></a></td>
   </tr>
 </table>
 
@@ -360,28 +348,28 @@ Developed a desktop application for managing furniture sales and inventory, supp
 <details>
 <summary><b>📜 Microsoft Office Specialist (Word, Excel, PowerPoint) - 2025</b></summary>
 <br>
-<img src="./image/README/cc1.jpg" style="width: 100%; max-width: 600px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3);" alt="MOS Certificate"/>
+<img src="./image/README/cc1.jpg" width="600" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3);" alt="MOS Certificate"/>
 </details>
 
 <details>
 <summary><b>🎓 B2 English CEFR (NTT | NIE English Program) - 2023</b></summary>
 <br>
-<img src="./image/README/cc2.jpg" style="width: 100%; max-width: 600px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3);" alt="English Certificate"/>
+<img src="./image/README/cc2.jpg" width="600" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3);" alt="English Certificate"/>
 </details>
 
 <details>
 <summary><b>🏅 Scientific Research Encouragement Prize - NTTU</b></summary>
 <br>
-<img src="./image/README/cc3.jpg" style="width: 100%; max-width: 600px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3);" alt="Research Prize Certificate"/>
+<img src="./image/README/cc3.jpg" width="600" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3);" alt="Research Prize Certificate"/>
 </details>
 
 <details>
 <summary><b>🎯 Additional Certifications (2 more)</b></summary>
 <br>
-<table style="width: 100%;">
+<table>
   <tr>
-    <td align="center"><img src="./image/README/cc4.jpg" style="width: 100%; max-width: 300px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3); margin: 5px;" alt="Certificate 4"/></td>
-    <td align="center"><img src="./image/README/cc5.jpg" style="width: 100%; max-width: 300px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3); margin: 5px;" alt="Certificate 5"/></td>
+    <td><img src="./image/README/cc4.jpg" width="300" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3); margin: 5px;" alt="Certificate 4"/></td>
+    <td><img src="./image/README/cc5.jpg" width="300" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,167,81,0.3); margin: 5px;" alt="Certificate 5"/></td>
   </tr>
 </table>
 </details>
@@ -402,7 +390,7 @@ Developed a desktop application for managing furniture sales and inventory, supp
 
 <div align="center">
 
-<img style="width: 100%; max-width: 900px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuongnguyen913&theme=tokyonight"/>
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuongnguyen913&theme=tokyonight"/>
 
 </div>
 
@@ -412,7 +400,7 @@ Developed a desktop application for managing furniture sales and inventory, supp
 
 ## 💭 Quote of the Day
 
-<img style="width: 100%; max-width: 600px;" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 </div>
 
@@ -422,7 +410,7 @@ Developed a desktop application for managing furniture sales and inventory, supp
 
 ### 📈 Contribution Graph
 
-<img style="width: 100%; max-width: 900px;" src="https://github-readme-activity-graph.vercel.app/graph?username=tuongnguyen913&bg_color=0d1117&color=0078d4&line=0078d4&point=ffffff&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tuongnguyen913&bg_color=0d1117&color=0078d4&line=0078d4&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 

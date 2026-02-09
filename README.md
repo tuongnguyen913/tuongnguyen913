@@ -9,7 +9,7 @@
 
 ## NGUYEN MINH TUONG (RYAN WILSON)
 
-**Software Engineer** | Kỹ Sư Phần Mềm  
+**Software Engineer**  
 Specializing in .NET Technologies & Government Digital Solutions
 
 📧 [devnguyen1910@gmail.com](mailto:devnguyen1910@gmail.com) | 📱 [+84 329 407 627](tel:+84329407627)  
@@ -17,17 +17,15 @@ Specializing in .NET Technologies & Government Digital Solutions
 
 ---
 
-## CAREER OBJECTIVE | MỤC TIÊU NGHỀ NGHIỆP
+## CAREER OBJECTIVE
 
 Develop as a **Fullstack Developer** specializing in **.NET technologies** with focus on building scalable enterprise applications and government digital solutions. Aspiring to become a **Software Architect** contributing high-performance systems and meaningful business value.
 
-*Phát triển với vai trò **Fullstack Developer** chuyên sâu về **.NET**, tập trung xây dựng ứng dụng doanh nghiệp và giải pháp chính phủ điện tử. Hướng tới trở thành **Software Architect** đóng góp các hệ thống hiệu năng cao.*
-
 ---
 
-## PROFESSIONAL EXPERIENCE | KINH NGHIỆM LÀM VIỆC
+## PROFESSIONAL EXPERIENCE
 
-### **Software Engineer** | Kỹ Sư Phần Mềm
+### **Software Engineer**
 **VPSTech Co. LTD** | Ho Chi Minh City, Vietnam  
 *September 2025 - Present*
 
@@ -37,7 +35,7 @@ Develop as a **Fullstack Developer** specializing in **.NET technologies** with 
 - Designing and deploying **real-time monitoring systems** for infrastructure security
 - Collaborating with cross-functional teams in **Agile/Scrum** environments
 
-### **Software Developer Intern** | Thực Tập Sinh Phát Triển Phần Mềm
+### **Software Developer Intern**
 **Digital Competence Company Limited** | Ho Chi Minh City, Vietnam  
 *February 2025 - May 2025*
 
@@ -47,48 +45,33 @@ Develop as a **Fullstack Developer** specializing in **.NET technologies** with 
 
 ---
 
-## KEY PROJECTS | DỰ ÁN NỔI BẬT
+## KEY PROJECTS
 
-### 🏛️ **Government Digital Solutions** | Giải Pháp Chính Phủ Điện Tử
-*E-government portals, citizen complaint systems, social welfare databases*
-
-- **Citizen Complaints & Denunciations System** - Comprehensive lifecycle management with VGCA signature, X-Road integration, SMS notifications, and multi-level approval workflows
-- **Government Electronic Information Portals (×3)** - Official websites with content management, Angular SSR for SEO, responsive design, and secure authentication
-- **Poor Household Database Management** - Provincial-scale system tracking 12 social indicators with Excel import, analytics, and approval workflows
+### 🏛️ **Government Digital Solutions**
+Comprehensive e-government platform enabling digital transformation for Vietnamese public sector, featuring citizen complaint management, information portals, and social welfare databases with secure authentication and inter-agency integration.
 
 **Tech Stack:** ASP.NET Core, Angular SSR, SQL Server, X-Road, VGCA, SignalR
 
-### 🔒 **Enterprise Security & Monitoring** | Bảo Mật & Giám Sát 🏆
-*24/7 real-time intrusion detection system | Innovation Award Winner*
+### 🔒 **Enterprise Security & Monitoring** 🏆
+24/7 real-time intrusion detection system monitoring ~10 Windows Servers, successfully detecting and preventing unauthorized access attempts through automated threat classification and centralized alerting.
 
-- Deployed **monitoring system on ~10 Windows Servers** detecting unauthorized file uploads
-- Implemented **automated threat classification** and email alert mechanisms
-- Built **centralized web dashboard** for security team monitoring
-- **Successfully detected and prevented real hacking attempts** in production
+**Tech Stack:** .NET, C#, Windows Services, File System Watcher, Email API  
+**Achievement:** Innovation Award Winner
 
-**Tech Stack:** .NET, C#, Windows Services, File System Watcher, Email API
-
-### 💼 **Business Management Systems** | Hệ Thống Quản Lý
-*SharePoint portals, workflow automation, API development*
-
-- **SharePoint Government Portals** - Custom web parts, event receivers, workflows for government agencies
-- **Vietnam Administrative API** - RESTful API serving post-2025 administrative hierarchy (63 provinces, 713 districts, 3,321 communes)
-- **Citizen Feedback & Petitions System** - Structured workflow with inter-agency data exchange
+### 💼 **Business Management Systems**
+Enterprise solutions including SharePoint portals with custom workflows, RESTful API serving Vietnam's administrative hierarchy, and citizen feedback systems with structured inter-agency data exchange.
 
 **Tech Stack:** SharePoint, Node.js, Express, Python pandas, REST APIs
 
-### 🎓 **Academic & Research Projects** | Dự Án Học Thuật 🏅
-*Research Prize Winner - Nguyen Tat Thanh University*
+### 🎓 **Academic & Research Projects** 🏅
+Full-stack applications including school equipment management with automated maintenance scheduling, e-commerce platform with payment integration, and desktop inventory management system.
 
-- **School Equipment Management System** - Device tracking, maintenance scheduling, automated planning by condition, role-based permissions
-- **E-Commerce Platform** - Product/order management, payment integration, inventory tracking, analytics
-- **Furniture Management Desktop App** - Sales orders, invoicing, inventory, material usage reports
-
-**Tech Stack:** ASP.NET MVC/Core, WinForms, Telerik UI, Bootstrap, SQL Server, Azure
+**Tech Stack:** ASP.NET MVC/Core, WinForms, Telerik UI, Bootstrap, SQL Server, Azure  
+**Achievement:** Research Prize Winner - NTTU
 
 ---
 
-## TECHNICAL SKILLS | KỸ NĂNG CHUYÊN MÔN
+## TECHNICAL SKILLS
 
 **Frontend Development:**  
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/) [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
@@ -117,11 +100,10 @@ Develop as a **Fullstack Developer** specializing in **.NET technologies** with 
 
 ---
 
-## EDUCATION | HỌC VẤN
+## EDUCATION
 
-**Bachelor of IT**  
-Software Engineering  
-*Kỹ Thuật Phần Mềm*
+**Bachelor of Information Technology**  
+Software Engineering
 
 **Nguyen Tat Thanh University**  
 *2021 - 2025*
@@ -130,7 +112,7 @@ Software Engineering
 
 ---
 
-## CERTIFICATIONS | CHỨNG CHỈ
+## CERTIFICATIONS
 
 🥇 **HackerRank Certified**
 - Angular (Intermediate)
@@ -148,7 +130,7 @@ Software Engineering
 
 ---
 
-## ACHIEVEMENTS | THÀNH TỰU
+## ACHIEVEMENTS
 
 🏆 **Innovation Award**  
 *Server Monitoring System*  
@@ -164,8 +146,7 @@ NTTU 2025
 
 ---
 
-## CORE COMPETENCIES  
-## NĂNG LỰC CỐT LÕI
+## CORE COMPETENCIES
 
 ✅ Government Digital Solutions  
 ✅ Enterprise Web Applications  
@@ -180,11 +161,19 @@ NTTU 2025
 
 <div align="center">
 
-### GitHub Statistics
+### 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=tuongnguyen913&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tuongnguyen913&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" width="100%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuongnguyen913&theme=tokyonight&hide_border=true&background=0d1117" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuongnguyen913&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
+
+---
+
+### 💭 Developer Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 ---
 
@@ -201,8 +190,6 @@ NTTU 2025
 <div align="center">
 
 **⭐ Available for exciting opportunities in .NET development and software engineering**
-
-*Sẵn sàng cho các cơ hội thú vị trong phát triển .NET và kỹ thuật phần mềm*
 
 <br>
 

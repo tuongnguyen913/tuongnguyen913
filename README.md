@@ -163,11 +163,9 @@ NTTU 2025
 
 ### 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=tuongnguyen913&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuongnguyen913&theme=tokyonight" width="100%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuongnguyen913&theme=tokyonight&hide_border=true&background=0d1117" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuongnguyen913&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
 
 ---
 
@@ -177,7 +175,7 @@ NTTU 2025
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=tuongnguyen913&color=0078d4&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=tuongnguyen913&color=0078d4&style=flat-square"/> <img src="https://img.shields.io/github/followers/tuongnguyen913?style=flat-square&logo=github&label=Followers&color=0078d4"/> <img src="https://img.shields.io/github/stars/tuongnguyen913?style=flat-square&logo=github&label=Total%20Stars&color=764ba2"/>
 
 </div>
 

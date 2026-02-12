@@ -1,27 +1,12 @@
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Nguyen%20Minh%20Tuong&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20.NET%20Developer&descAlignY=55&descAlign=50"/>
-</div>
-
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td width="70%" valign="top">
 
-## NGUYEN MINH TUONG (RYAN WILSON)
-
-**Software Engineer**  
-Specializing in .NET Technologies & Government Digital Solutions
-
-📧 [devnguyen1910@gmail.com](mailto:devnguyen1910@gmail.com) | 📱 [+84 329 407 627](tel:+84329407627)  
-🌐 [LinkedIn](https://www.linkedin.com/in/devnguyen1910/) | [HackerRank](https://www.hackerrank.com/profile/devnguyen1910) | [GitHub](https://github.com/tuongnguyen913)
+## NGUYEN MINH TUONG | SOFTWARE ENGINEER
+📧 [devnguyen1910@gmail.com](mailto:devnguyen1910@gmail.com) | 📱 [+84 329 407 627](tel:+84329407627)  🌐 [LinkedIn](https://www.linkedin.com/in/devnguyen1910/) | [HackerRank](https://www.hackerrank.com/profile/devnguyen1910) | [GitHub](https://github.com/tuongnguyen913)
 
 ---
 
-## CAREER OBJECTIVE
-
-Develop as a **Fullstack Developer** specializing in **.NET technologies** with focus on building scalable enterprise applications and government digital solutions. Aspiring to become a **Software Architect** contributing high-performance systems and meaningful business value.
-
----
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -29,18 +14,18 @@ Develop as a **Fullstack Developer** specializing in **.NET technologies** with 
 **VPSTech Co. LTD** | Ho Chi Minh City, Vietnam  
 *September 2025 - Present*
 
-- Developing **government digital transformation solutions** for Vietnamese public sector agencies
-- Building enterprise web applications using **.NET Core, Angular, and SQL Server**
-- Implementing secure authentication systems with **SSO, X-Road integration, and VGCA digital signatures**
-- Designing and deploying **real-time monitoring systems** for infrastructure security
-- Collaborating with cross-functional teams in **Agile/Scrum** environments
+- Developing government digital transformation solutions for Vietnamese public sector agencies
+- Building enterprise web applications using .NET Core, Angular, and SQL Server
+- Implementing secure authentication systems with SSO, X-Road integration, and VGCA digital signatures
+- Designing and deploying real-time monitoring systems for infrastructure security
+- Collaborating with cross-functional teams in Agile/Scrum environments
 
 ### **Software Developer Intern**
 **Digital Competence Company Limited** | Ho Chi Minh City, Vietnam  
 *February 2025 - May 2025*
 
-- Contributed to developing **ASP.NET Core landing page** for online course promotion
-- Worked within **Agile (Scrum)** workflows, ensuring project quality and timely delivery
+- Contributed to developing ASP.NET Core landing page for online course promotion
+- Worked within Agile (Scrum) workflows, ensuring project quality and timely delivery
 - Enhanced communication and teamwork skills through collaborative development
 
 ---
@@ -93,9 +78,6 @@ Full-stack applications including school equipment management with automated mai
 
 </td>
 <td width="30%" valign="top">
-
-<br><br>
-
 <img src="./assets/anh_3.JPG" width="100%" style="border-radius: 15px; border: 3px solid #0078D4; box-shadow: 0 4px 12px rgba(0,120,212,0.3);" alt="Nguyen Minh Tuong"/>
 
 ---
@@ -121,29 +103,10 @@ Software Engineering
 - Software Engineer
 
 📜 **Microsoft Office Specialist**
-- Word, Excel, PowerPoint
-- *2025*
+- Word, Excel, PowerPoint (*2025*)
 
 🎓 **English CEFR B2**
-- NIE English Program
-- NTTU, *2023*
-
----
-
-## ACHIEVEMENTS
-
-🏆 **Innovation Award**  
-*Server Monitoring System*  
-VPSTech Co. LTD
-
-🏅 **Research Prize**  
-*School Equipment Management*  
-Nguyen Tat Thanh University
-
-🎓 **Honor Student**  
-*GPA 3.31/4.0*  
-NTTU 2025
-
+- NIIE English Program | (Similar)IELTS 6.0 
 ---
 
 ## CORE COMPETENCIES
@@ -182,15 +145,3 @@ NTTU 2025
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-**⭐ Available for exciting opportunities in .NET development and software engineering**
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer"/>
-
-</div>

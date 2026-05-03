@@ -77,24 +77,17 @@ Software Engineer focused on **government digital transformation** and **enterpr
 
 ### GitHub Stats
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td width="50%" align="center">
+<div align="center">
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuongnguyen913&theme=tokyonight&hide_border=true&background=0d1117&ring=0078D4&fire=00BCF2&currStreakLabel=58a6ff)](https://github.com/tuongnguyen913)
+[![Streak](https://streak-stats.demolab.com?user=tuongnguyen913&theme=tokyonight&hide_border=true&background=0d1117&ring=0078D4&fire=00BCF2&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e)](https://github.com/tuongnguyen913)
 
-</td>
-<td width="50%" align="center">
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=tuongnguyen913&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D4&icon_color=00BCF2&count_private=true)](https://github.com/tuongnguyen913)
-
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuongnguyen913&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D4)](https://github.com/tuongnguyen913)
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tuongnguyen913&theme=tokyonight" />
+&nbsp;
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuongnguyen913&theme=tokyonight" />
 
 </div>
 
